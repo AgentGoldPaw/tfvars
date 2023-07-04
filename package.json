@@ -1,0 +1,27 @@
+{
+  "name": "@redmunroe/tfvars",
+  "version": "0.0.1",
+  "description": "use code to generate terraform tfvars files",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedMunroe/tfvars.git"
+  },
+  "keywords": [
+    "terraform",
+    "tfvars",
+    "typescript",
+    "node",
+    "javascript"
+  ],
+  "author": "RedMunroe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RedMunroe/tfvars/issues"
+  },
+  "homepage": "https://github.com/RedMunroe/tfvars#readme"
+}
